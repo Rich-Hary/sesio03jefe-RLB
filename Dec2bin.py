@@ -30,3 +30,4 @@ if __name__ == "__main__":
     print("El numero binario " + numero_binario + " es " + str(numero_decimal) + " en decimal.")
 
 # Modificacion hecha por Eric Olle para concluir el ejercicio 2
+# Modificacion numero 2
